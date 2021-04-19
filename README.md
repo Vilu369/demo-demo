@@ -41,4 +41,4 @@ Hier haben wir **_Kursiv und Fett_**
 
 ## inline link
 
-[Search for it](www.google.com)
+[Search for it](https://www.google.com)
