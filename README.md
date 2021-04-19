@@ -42,3 +42,7 @@ Hier haben wir **_Kursiv und Fett_**
 ## inline link
 
 [Search for it](https://www.google.com)
+
+## ink with text
+
+[You **really really** want to see this](https.//www.dailykitten.com)
