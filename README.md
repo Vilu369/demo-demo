@@ -38,3 +38,7 @@ Hier haben wir **_Kursiv und Fett_**
 ## Titel und Kursiv
 
 #### Dies hier ist ein Leven _Vier_ Titel
+
+## inline link
+
+[Search for it](www.google.com)
