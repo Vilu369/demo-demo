@@ -10,3 +10,9 @@ lol
 ## Abschnitt
 
 Bruda muss los
+
+## Neuer Commit
+
+## Kursiv
+
+Für fette Txt verwenden wri _das ist kursiv_
