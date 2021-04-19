@@ -25,3 +25,6 @@ Für fetten Text verwenden wir **fett**
 
 Das ier ist _kursiv_ ABER das hier ist im selben Satz **komplett fett**
 
+## Kursiv **UND** Fett
+
+Hier haben wir **_Kursiv und Fett_**
