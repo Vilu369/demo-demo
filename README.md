@@ -15,4 +15,11 @@ Bruda muss los
 
 ## Kursiv
 
-Für fette Txt verwenden wri _das ist kursiv_
+Für kursiven Txt verwenden wri _das ist kursiv_
+
+## Fett gedruckt
+
+Für fetten Text verwenden wir **fett**
+
+
+
