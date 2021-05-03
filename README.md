@@ -13,9 +13,9 @@ Bruda muss los
 
 ## Neuer Commit
 
-## Kursiv
+## Kursiv ist so schön
 
-Für kursiven Txt verwenden wri _das ist kursiv_
+Für kursiven Teeeeeext verwenden wri _das ist kursiv_
 
 ## Fett gedruckt
 
